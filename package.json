@@ -37,7 +37,7 @@
     "semver": "^4.1.0",
     "tildify": "^1.0.0",
     "v8flags": "^2.0.2",
-    "vinyl-fs": "^0.3.0"
+    "vinyl-fs": "git://github.com/rdy/vinyl-fs.git#bf8498ddb7bdc6978c645ac12745e95938c3bedb"
   },
   "devDependencies": {
     "coveralls": "^2.7.0",
